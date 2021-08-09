@@ -2,6 +2,7 @@
 ### Chen ZhuoFan | 17 | 4Opal 
 ### Dunearn Secondary School 德能中学
 ###  Singapore Polytechnic 新加坡理工学院
+### 自强不息,知行合一
 ### 因为有悔，所以披星戴月  因为有梦，所以奋不顾身
 ### Let your dreams be bigger than your fears and your actions be louder than your words.
 
