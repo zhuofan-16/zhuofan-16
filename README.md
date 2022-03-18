@@ -35,6 +35,7 @@
 [![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
 [![MacBook Pro 2021](https://img.shields.io/badge/MacBook%20Pro%202021-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macbook-pro-13/specs/)
+[![iPad Air 3](https://img.shields.io/badge/iPad%20Air%203-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP787?locale=zh_CN)
 [![Surface Pro 5](https://img.shields.io/badge/Surface%20Pro%205-478CBF?style=fflat-square&logo=microsoft&logoColor=white)](https://support.microsoft.com/en-us/surface/surface-pro-5th-gen-features-42d321e4-52d6-dcb1-e014-9ffc76fbca14)
 
 ## 📫 Get in touch
