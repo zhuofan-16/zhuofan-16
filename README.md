@@ -7,7 +7,6 @@
 - Currently learning: \
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=fflat-square&logo=c%2B%2B&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg21/)
 [![C](https://img.shields.io/badge/C-00599C?style=fflat-square&logo=c&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg21/)
-[![GOlang](https://img.shields.io/badge/Go-00ADD8?style=fflat-square&logo=go&logoColor=white)](https://golang.org)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=fflat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=fflat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/specs.en.html) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=fflat-square&logo=javascript&logoColor=black)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) \
@@ -19,7 +18,7 @@
 
 ## 🤔 What I'm doing
 - Studying in school
-- Learning Golang/C++
+- Learning Vue2
 - Maintaining some ROMs for Xiaomi Redmi K30 5G
 - Working part time
 
@@ -34,9 +33,8 @@
 [![Oppo Reno 6 Pro 5G](https://img.shields.io/badge/Oppo%20Reno%206%20Pro%205G-1EA366?style=fflat-square&logo=huawei&logoColor=white)](https://www.oppo.com/cn/smartphones/series-reno/reno6-pro/)
 [![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
+[![Huawei Matebook E 2022](https://img.shields.io/badge/Huawei%20Matebook%20E%202022-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/en/laptops/matebook-e-2022/)
 [![MacBook Pro 2021](https://img.shields.io/badge/MacBook%20Pro%202021-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macbook-pro-13/specs/)
-[![iPad Air 3](https://img.shields.io/badge/iPad%20Air%203-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP787?locale=zh_CN)
-[![Surface Pro 5](https://img.shields.io/badge/Surface%20Pro%205-478CBF?style=fflat-square&logo=microsoft&logoColor=white)](https://support.microsoft.com/en-us/surface/surface-pro-5th-gen-features-42d321e4-52d6-dcb1-e014-9ffc76fbca14)
 
 ## 📫 Get in touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fflat-square&logo=gmail&logoColor=white)](mailto:chzuofan@gmail.com)
