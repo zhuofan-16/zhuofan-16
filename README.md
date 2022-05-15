@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuofan-16" />
 
 ## 👋Hi,this is ZhuoFan
-- Chen ZhuoFan | 17 | 4Opal | DAAA/FT/1B/04
+- Chen ZhuoFan | 17 | 4Opal | DAAA/FT/2A/04
 - You can call me <b>寒词</b> || <b>Han</b>
 - 自强不息,知行合一
 - Currently learning: \
@@ -30,7 +30,7 @@
 
 
 ## 📱 Devices in use
-[![Oppo Reno 6 Pro 5G](https://img.shields.io/badge/Oppo%20Reno%206%20Pro%205G-1EA366?style=fflat-square&logo=huawei&logoColor=white)](https://www.oppo.com/cn/smartphones/series-reno/reno6-pro/)
+[![Huawei P40 5G](https://img.shields.io/badge/Huawei%20P40%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/p40/)
 [![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
 [![Huawei Matebook E 2022](https://img.shields.io/badge/Huawei%20Matebook%20E%202022-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/en/laptops/matebook-e-2022/)
