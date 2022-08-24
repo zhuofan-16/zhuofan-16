@@ -22,7 +22,7 @@
 - Maintaining some ROMs for Xiaomi Redmi K30 5G
 
 ## 💻 Working environment
-[![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey-preview/)
+[![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macos/macos-ventura-preview/)
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=fflat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=fflat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-10)
 [![HarmonyOS 2.0](https://img.shields.io/badge/HarmonyOS%202.0-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://www.harmonyos.com)
@@ -35,6 +35,7 @@
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
 [![Huawei Matebook E 2022](https://img.shields.io/badge/Huawei%20Matebook%20E%202022-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/en/laptops/matebook-e-2022/)
 [![MacBook Pro 2021](https://img.shields.io/badge/MacBook%20Pro%202021-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macbook-pro-13/specs/)
+[![Lenovo M710Q | Mac Mini 2018](https://img.shields.io/badge/Mac%20Mini%202018-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP782?locale=zh_CN)
 
 ## 📫 Get in touch
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fflat-square&logo=gmail&logoColor=white)](mailto:chzuofan@gmail.com)
