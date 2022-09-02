@@ -32,6 +32,7 @@
 [![iPhone 11 4G](https://img.shields.io/badge/iPhone%2011%204G-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/iphone-11/specs/)
 [![Huawei P40 5G](https://img.shields.io/badge/Huawei%20P40%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/p40/)
 [![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
+[![iPad Air 4](https://img.shields.io/badge/iPad%20Air%204-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP828?locale=zh_CN)
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
 [![Huawei Matebook E 2022](https://img.shields.io/badge/Huawei%20Matebook%20E%202022-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/en/laptops/matebook-e-2022/)
 [![MacBook Pro 2021](https://img.shields.io/badge/MacBook%20Pro%202021-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macbook-pro-13/specs/)
