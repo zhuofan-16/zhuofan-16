@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuofan-16" />
 
 ## 👋Hi,this is ZhuoFan
-- Chen ZhuoFan | 19 | 4Opal | DAAA/FT/2A/04
-- You can call me <b>寒词</b> || <b>Han</b>
+- Chen ZhuoFan | 19 | 4Opal | DAAA/FT/3B/01
+- You can call me <b>寒词</b> || <b>ZhuoFan</b>
 - 自强不息,知行合一
 - Currently learning: \
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=fflat-square&logo=c%2B%2B&logoColor=white)](http://www.open-std.org/jtc1/sc22/wg21/)
@@ -17,9 +17,9 @@
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=fflat-square&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/) 
 
 ## 🤔 What I'm doing
-- Machine Learning
-- Learning Vue2
-- Maintaining some ROMs for Xiaomi Redmi K30 5G
+- GNN & GAT
+- Knowledge Graph & LLM
+- Internship at Singtel
 
 ## 💻 Working environment
 [![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macos/macos-ventura-preview/)
@@ -29,8 +29,8 @@
 
 
 ## 📱 Devices in use
-[![iPhone 11 4G](https://img.shields.io/badge/iPhone%2011%204G-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/iphone-11/specs/)
-[![Huawei P40 5G](https://img.shields.io/badge/Huawei%20P40%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/p40/)
+[![iPhone 12 Mini 4G](https://img.shields.io/badge/iPhone%2011%204G-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/iphone-12/specs/)
+[![Huawei P50E 4G](https://img.shields.io/badge/Huawei%20P40%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/p50e/)
 [![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
 [![iPad Air 4](https://img.shields.io/badge/iPad%20Air%204-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP828?locale=zh_CN)
 [![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
