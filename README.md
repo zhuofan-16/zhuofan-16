@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuofan-16" />
 
 ## 👋Hi,this is ZhuoFan
-- Chen ZhuoFan | 19 | 4Opal | DAAA/FT/3B/01
+- Chen ZhuoFan | 22 
 - You can call me <b>寒词</b> || <b>ZhuoFan</b>
 - 自强不息,知行合一
 - Currently learning: \
@@ -19,7 +19,7 @@
 ## 🤔 What I'm doing
 - GNN & GAT
 - Knowledge Graph & LLM
-- Internship at Singtel
+- Providing web and ai development services
 
 ## 💻 Working environment
 [![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macos/macos-ventura-preview/)
