@@ -20,22 +20,24 @@
 - GNN & GAT
 - Knowledge Graph & LLM
 - Providing web and ai development services
+- National Service
 
 ## 💻 Working environment
-[![macOS Ventura](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macos/macos-ventura-preview/)
+[![macOS Sequoia](https://img.shields.io/badge/macOS%20Ventura-4f4f4f?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macos/macos-sequoia/)
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=fflat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=fflat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-10)
-[![HarmonyOS 2.0](https://img.shields.io/badge/HarmonyOS%202.0-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://www.harmonyos.com)
+[![Windows 11](https://img.shields.io/badge/Windows%2010-00adef?style=fflat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
+
 
 
 ## 📱 Devices in use
-[![iPhone 12 Mini 4G](https://img.shields.io/badge/iPhone%2011%204G-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/iphone-12/specs/)
-[![Huawei P50E 4G](https://img.shields.io/badge/Huawei%20P40%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/p50e/)
-[![Huawei Nova 7 SE 5G](https://img.shields.io/badge/Huawei%20Nova%207%20SE%205G-FF0000?style=fflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/phones/nova7-se/)
-[![iPad Air 4](https://img.shields.io/badge/iPad%20Air%204-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP828?locale=zh_CN)
-[![Huawei Band 6 NFC](https://img.shields.io/badge/Huawei%20Band%206%20NFC-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/cn/wearables/band6/)
-[![Huawei Matebook E 2022](https://img.shields.io/badge/Huawei%20Matebook%20E%202022-FF0000?style=ffflat-square&logo=huawei&logoColor=white)](https://consumer.huawei.com/en/laptops/matebook-e-2022/)
+[![iPhone 16](https://img.shields.io/badge/iPhone%2016%205G-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/iphone-16/specs/)
+[![Xiaomi 10S](https://img.shields.io/badge/Xiaomi%2010S%205G-FF0000?style=fflat-square&logo=xiaomi&logoColor=white)](https://www.mi.com/mi10s)
+[![iPad mini 5](https://img.shields.io/badge/iPad%20mini%205-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/en-sg/111904)
+[![Apple Watch 8](https://img.shields.io/badge/Apple%20Watch%208%20NFC-FF0000?style=ffflat-square&logo=apple&logoColor=white)](https://support.apple.com/en-sg/111848)
 [![MacBook Pro 2021](https://img.shields.io/badge/MacBook%20Pro%202021-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/sg/macbook-pro-13/specs/)
+[![SA5212M5 Server](https://img.shields.io/badge/SA5212M5%20Server=%20-a2aaad?style=fflat-square&logo=pc&logoColor=ffffff)](https://www.inspur.com/eportal/fileDir/active_download/userBook/SA5212M5/浪潮英信服务器%20SA5212M5%20用户手册%20V2.5.pdf)
+
+[![Lenovo Flex 5i](https://img.shields.io/badge/Lenovo%20Flex%20i%202022-FF0000?style=ffflat-square&logo=lenovo&logoColor=white)](https://www.lenovo.com/sg/en/p/laptops/ideapad/ideapad-flex-series/ideapad-flex-5i-chromebook-gen-7-(14-inch-intel)/len101i0035?srsltid=AfmBOoqVCxQ7yIKV7J_kxSPLEfMtIUda166ITkCmxJl1pA52eJ2nABjc)
 [![Lenovo M710Q | Mac Mini 2018](https://img.shields.io/badge/Mac%20Mini%202018-a2aaad?style=fflat-square&logo=apple&logoColor=ffffff)](https://support.apple.com/kb/SP782?locale=zh_CN)
 
 ## 📫 Get in touch
